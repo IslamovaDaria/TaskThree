@@ -1,0 +1,7 @@
+C:\Users\Daria\Documents\C#\Practice\TaskThree\TaskThree\bin\Debug\TaskThree.exe.config
+C:\Users\Daria\Documents\C#\Practice\TaskThree\TaskThree\bin\Debug\TaskThree.exe
+C:\Users\Daria\Documents\C#\Practice\TaskThree\TaskThree\bin\Debug\TaskThree.pdb
+C:\Users\Daria\Documents\C#\Practice\TaskThree\TaskThree\obj\Debug\TaskThree.csprojResolveAssemblyReference.cache
+C:\Users\Daria\Documents\C#\Practice\TaskThree\TaskThree\obj\Debug\TaskThree.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Documents\C#\Practice\TaskThree\TaskThree\obj\Debug\TaskThree.exe
+C:\Users\Daria\Documents\C#\Practice\TaskThree\TaskThree\obj\Debug\TaskThree.pdb
