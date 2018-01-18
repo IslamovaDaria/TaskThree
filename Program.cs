@@ -8,7 +8,7 @@ namespace TaskThree
 {
     class Program
     {
-        static double ReadDouble() //Ввод действительного числа
+        static double ReadDouble() // Ввод действительного числа
         {
             double num = 0;
             bool OK = false;
